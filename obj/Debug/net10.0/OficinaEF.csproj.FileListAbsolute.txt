@@ -402,3 +402,4 @@ C:\Users\51842307851\Desktop\BackEnd\MVC\OficinaEF\obj\Debug\net10.0\refint\Ofic
 C:\Users\51842307851\Desktop\BackEnd\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.pdb
 C:\Users\51842307851\Desktop\BackEnd\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.genruntimeconfig.cache
 C:\Users\51842307851\Desktop\BackEnd\MVC\OficinaEF\obj\Debug\net10.0\ref\OficinaEF.dll
+C:\Users\51842307851\Desktop\BackEnd\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.sourcelink.json
